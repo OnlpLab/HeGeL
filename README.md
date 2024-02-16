@@ -1,4 +1,7 @@
-# HeGeL: A Novel Dataset for Hebrew Geo-Location
+# HeGeL: A Novel Dataset for Geo-Location from Hebrew Text
+
+## Paper
+The paper can be found here - https://aclanthology.org/2023.findings-acl.460/
 
 ## Data
 
